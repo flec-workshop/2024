@@ -23,13 +23,13 @@ export default function getRoutes() {
   return [
     {
       title: "Home",
-      href: "/",
+      href: process.env.PUBLIC_URL + "/",
       component: <Home />,
       menu: true,
     },
     {
       title: "Organizing Committee",
-      href: "/organizing-committee",
+      href: process.env.PUBLIC_URL + "/organizing-committee",
       component: <OrganizingCommittee />,
       menu: true,
       parent: "Committees",
