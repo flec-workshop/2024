@@ -23,27 +23,27 @@ export default function getRoutes() {
   return [
     {
       title: "Home",
-      href: "/",
+      href: "/2024",
       component: <Home />,
       menu: true,
     },
     {
       title: "Organizing Committee",
-      href: "/organizing-committee",
+      href: "/2024/organizing-committee",
       component: <OrganizingCommittee />,
       menu: true,
       parent: "Committees",
     },
     {
       title: "Technical Program Committee",
-      href: "/technical-program-committee",
+      href: "/2024/technical-program-committee",
       component: <TechnicalProgramCommittee />,
       menu: true,
       parent: "Committees",
     },
     {
       title: "Dates",
-      href: "/important-dates",
+      href: "/2024/important-dates",
       component: <Dates />,
       menu: true,
     },

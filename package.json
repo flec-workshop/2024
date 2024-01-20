@@ -1,7 +1,7 @@
 {
   "name": "FLEC2024",
   "version": "0.1.0",
-  "homepage": "/2024",
+  "homepage": "./2024",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
