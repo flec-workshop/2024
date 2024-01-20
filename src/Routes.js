@@ -36,20 +36,20 @@ export default function getRoutes() {
     },
     {
       title: "Technical Program Committee",
-      href: "/technical-program-committee",
+      href: process.env.PUBLIC_URL + "/technical-program-committee",
       component: <TechnicalProgramCommittee />,
       menu: true,
       parent: "Committees",
     },
     {
       title: "Dates",
-      href: "/important-dates",
+      href: process.env.PUBLIC_URL + "/important-dates",
       component: <Dates />,
       menu: true,
     },
     {
       title: "Venue",
-      href: "/venue",
+      href: process.env.PUBLIC_URL + "/venue",
       component: <Venue />,
       menu: true,
     },
