@@ -23,7 +23,7 @@ export default function getRoutes() {
   return [
     {
       title: "Home",
-      href: "/2024",
+      href: "/",
       component: <Home />,
       menu: true,
     },
