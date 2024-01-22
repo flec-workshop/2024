@@ -10,7 +10,8 @@ const SteeringCommittee = () => {
                 <hr />
                 <table>
                     <tbody>
-                        <tr>
+                        TBD
+                            {/* <tr>
                                 <td>Boris Kraychev, GATE Institute, Bulgaria</td>
                             </tr>
                             <tr>
@@ -33,7 +34,7 @@ const SteeringCommittee = () => {
                             </tr>
                             <tr>
                                 <td>Sabtain Ahmad, TU Wien</td>
-                            </tr>
+                            </tr> */}
                         
                         </tbody>
                 </table>
