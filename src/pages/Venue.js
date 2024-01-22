@@ -26,7 +26,7 @@ const Venue = () => {
             <Content>
                 <h1>Venue</h1>
                 <hr />
-                <p>FLEC 2024 will take place in Polo Piagge, University of Pisa on June 3-4, 2024 in Pisa, Italy. The workshop is co-located with the 33rd International Symposium on <Link target="blank" to="https://www.hpdc.org/2024">High-Performance Parallel and Distributed Computing (HPDC 2024)</Link>.</p>
+                <p>FLEC 2024 will take place at the Computer Science Department of the University of Pisa on June 3-4, 2024 in Pisa, Italy. The workshop is co-located with the 33rd International Symposium on <Link target="blank" to="https://www.hpdc.org/2024">High-Performance Parallel and Distributed Computing (HPDC 2024)</Link>.</p>
             </Content>
         </PageWrapper>
     );
