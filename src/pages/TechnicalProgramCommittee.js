@@ -50,6 +50,7 @@ const SteeringCommittee = () => {
             <tr>
               <td>Mehreen Tahir, Dublin City University</td>
             </tr>
+            TBC
           </tbody>
         </table>
       </Content>
