@@ -53,7 +53,6 @@ const SteeringCommittee = () => {
             <tr>
               <td>Posco Tso, Loughborough University, UK</td>
             </tr>
-            TBC
           </tbody>
         </table>
       </Content>
