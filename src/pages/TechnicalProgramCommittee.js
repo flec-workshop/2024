@@ -32,6 +32,9 @@ const SteeringCommittee = () => {
               <td>Mark Adrian Gambito, University of Pisa, Italy</td>
             </tr>
             <tr>
+              <td>Peiyuan Guan, University of Oslo, Norway</td>
+            </tr>
+            <tr>
               <td>Reza Jabbarpour, Swinburne University, Australia</td>
             </tr>
             <tr>

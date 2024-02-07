@@ -24,8 +24,7 @@ const OrganizingCommittees = () => {
                         <tr>
                             <td className="tdCommittee"><img className="imgCommittee" src={alessio} alt="Alessio Catalfamo" /></td>
                             <td><h4>Alessio Catalfamo, University of Messina, Italy</h4>
-                                He holds a Ph.D. in Distributed Systems from the University of Messina in 2023. From 2018 to 2019 he holded postgraduate fellowship in a project for Sustainable Mobility in partnership with Municipality of Messina and from 2019 to 2020 he holded a postgraduate fellowship in Italy Minister Project “PON Metro”. His research interests are focused on Edge Computing, Cloud-Edge Continuum and Federated Learning.  
-                            </td>
+                            He holds a Ph.D. in Distributed Systems from the University of Messina in 2023. From 2018 to 2019 he held a postgraduate fellowship in a project for Sustainable Mobility in partnership with the Municipality of Messina and from 2019 to 2020 he held a postgraduate fellowship in Italy Minister Project “PON Metro”. His research interests are focused on Edge Computing, Cloud-Edge Continuum and Federated Learning.                             </td>
                         </tr>
                         <tr>
                             <td className="tdCommittee"><img className="imgCommittee" src={feras} alt="Feras M. Awaysheh" /></td>
