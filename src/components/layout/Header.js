@@ -95,7 +95,7 @@ function Header() {
     return (
         // <header className={`header${scrolled ? " header-sticky" : ""}`}>
         <header className={`header${scrolled ? " header-sticky" : ""}`}>
-            <Link to="/">
+            <Link to="/2024">
                 <h1>FLEC 2024</h1>
             </Link>
             <nav>
