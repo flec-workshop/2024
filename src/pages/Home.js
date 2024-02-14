@@ -62,7 +62,7 @@ const Home = () => {
                 Papers must present original work that has not appeared and is not under review elsewhere.
                 Due to the double-blind peer review, all information that may allow to identify the authors must be removed from the submitted paper, like authors’ names and affiliations, acknowledgments, funding information, and all references to the authors’ work that may disclose their identity. This information can be later added to accepted papers.
                 <br />
-                Papers must be submitted using <Link to="?">HotCRP</Link> System.
+                Papers must be submitted using <Link to="https://flec2024.hotcrp.com/">HotCRP</Link> System.
 
                 </p>
             </Content>
